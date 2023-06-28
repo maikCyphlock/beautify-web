@@ -5,7 +5,7 @@
 			<div class="bg-white rounded-lg overflow-hidden shadow-lg">
 				<img
 					class="w-full"
-					src="https://unsplash.com/photos/NnsqpLjiA94/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MjN8fHByb2R1Y3RvcyUyMGNvc20lQzMlQTl0aWNvc3xlc3wwfDB8fHwxNjg3OTgzNjU0fDA&force=true&w=1920"
+					src="https://unsplash.com/photos/NnsqpLjiA94/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MjN8fHByb2R1Y3RvcyUyMGNvc20lQzMlQTl0aWNvc3xlc3wwfDB8fHwxNjg3OTgzNjU0fDA&force=true&w=640"
 					alt="Maquillaje"
 				/>
 				<div class="p-4">
@@ -16,7 +16,7 @@
 			<div class="bg-white rounded-lg overflow-hidden shadow-lg">
 				<img
 					class="w-full"
-					src="https://unsplash.com/photos/HDSCXfzBYM0/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTV8fHByb2R1Y3RvcyUyMGNvc20lQzMlQTl0aWNvc3xlc3wwfDB8fHwxNjg3OTgzNDU4fDA&force=true&w=1920"
+					src="https://unsplash.com/photos/HDSCXfzBYM0/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTV8fHByb2R1Y3RvcyUyMGNvc20lQzMlQTl0aWNvc3xlc3wwfDB8fHwxNjg3OTgzNDU4fDA&force=true&w=640"
 					alt="Cuidado de la piel"
 				/>
 				<div class="p-4">
@@ -27,7 +27,7 @@
 			<div class="bg-white rounded-lg overflow-hidden shadow-lg">
 				<img
 					class="w-full"
-					src="https://unsplash.com/photos/ZmeFtu11Hpc/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjg3OTg0MzY5fA&force=true&w=1920"
+					src="https://unsplash.com/photos/ZmeFtu11Hpc/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjg3OTg0MzY5fA&force=true&w=640"
 					alt="Categoría 3"
 				/>
 				<div class="p-4">
@@ -38,7 +38,7 @@
 			<div class="bg-white rounded-lg overflow-hidden shadow-lg">
 				<img
 					class="w-full"
-					src="https://unsplash.com/photos/TT-ROxWj9nA/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTB8fHJvcGElMjB3b21hbnxlc3wwfDB8fHwxNjg3OTg0Mjk4fDA&force=true&w=1920"
+					src="https://unsplash.com/photos/TT-ROxWj9nA/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTB8fHJvcGElMjB3b21hbnxlc3wwfDB8fHwxNjg3OTg0Mjk4fDA&force=true&w=640"
 					alt="Categoría 4"
 				/>
 				<div class="p-4">

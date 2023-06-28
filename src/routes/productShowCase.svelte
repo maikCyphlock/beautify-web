@@ -11,7 +11,7 @@
 				<div class="bg-white rounded-lg overflow-hidden shadow-lg">
 					<img
 						class="w-full"
-						src="https://unsplash.com/photos/t-mgZnfCvrg/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTV8fHByb2R1Y3RvcyUyMGNvc20lQzMlQTl0aWNvc3xlc3wwfHx8fDE2ODc5ODM0NDF8MA&force=true&w=1920"
+						src="https://unsplash.com/photos/t-mgZnfCvrg/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTV8fHByb2R1Y3RvcyUyMGNvc20lQzMlQTl0aWNvc3xlc3wwfHx8fDE2ODc5ODM0NDF8MA&force=true&w=640"
 						alt="Producto 1"
 					/>
 					<div class="p-4">
@@ -29,7 +29,7 @@
 				<div class="bg-white rounded-lg overflow-hidden shadow-lg">
 					<img
 						class="w-full"
-						src="https://unsplash.com/photos/_4gFW3mBRCc/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTZ8fHByb2R1Y3RvcyUyMGNvc20lQzMlQTl0aWNvc3xlc3wwfDB8fHwxNjg3OTgzNDU4fDA&force=true&w=1920"
+						src="https://unsplash.com/photos/_4gFW3mBRCc/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTZ8fHByb2R1Y3RvcyUyMGNvc20lQzMlQTl0aWNvc3xlc3wwfDB8fHwxNjg3OTgzNDU4fDA&force=true&w=640"
 						alt="Producto 2"
 					/>
 					<div class="p-4">
@@ -47,7 +47,7 @@
 				<div class="bg-white rounded-lg overflow-hidden shadow-lg">
 					<img
 						class="w-full"
-						src="https://unsplash.com/photos/MEsWk-dZzlI/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MjZ8fHByb2R1Y3RvcyUyMGNvc20lQzMlQTl0aWNvc3xlc3wwfDB8fHwxNjg3OTgzNjU0fDA&force=true&w=1920"
+						src="https://unsplash.com/photos/MEsWk-dZzlI/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MjZ8fHByb2R1Y3RvcyUyMGNvc20lQzMlQTl0aWNvc3xlc3wwfDB8fHwxNjg3OTgzNjU0fDA&force=true&w=640"
 						alt="Producto 1"
 					/>
 					<div class="p-4">
